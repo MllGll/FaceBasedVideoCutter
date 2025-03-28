@@ -1,15 +1,31 @@
-# Face-Based Video Cutter
+<h1 align="center">Face-Based Video Cutter</h1>
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+![Issues](https://img.shields.io/github/issues/MllGll/FaceBasedVideoCutter
+)
+![Pull Requests](https://img.shields.io/github/issues-pr/MllGll/FaceBasedVideoCutter
+)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/MllGll/FaceBasedVideoCutter/blob/main/LICENSE)
+
+</div>
+
+<div align="center">
+
+![demo_screen](./demo-screen.png)
+
+</div>
 
 ## Overview
 
-Face-Based Video Cutter is a powerful desktop application that allows you to easily cut and export video segments based on the presence of specific people in the footage. Leveraging face recognition technology, this tool provides an intuitive way to create personalized video compilations.
+Face-Based Video Cutter is a desktop application that allows you to easily cut and export video segments based on the presence of specific people in the footage. Leveraging face recognition technology, this tool provides an intuitive way to create personalized video compilations.
 
 ## Key Features
 
-- 🔍 Advanced face detection using machine learning
+- 👤 Advanced face detection using machine learning
 - 🎥 Support for multiple video formats (MP4, AVI, MOV, MKV)
-- 🔧 Customizable face recognition tolerance
-- 📦 Frame sampling interval control
+- 🔧 Customizable face recognition tolerance and frame sampling interval
 - 🖥️ User-friendly graphical interface
 - 💾 Multiple export codec and format options
 
@@ -23,8 +39,8 @@ Face-Based Video Cutter is a powerful desktop application that allows you to eas
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/face-based-video-cutter.git
-cd face-based-video-cutter
+git clone https://github.com/MllGll/FaceBasedVideoCutter.git
+cd FaceBasedVideoCutter
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
@@ -116,10 +132,8 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/MllGll/FaceBasedVideoCutter/blob/main/LICENSE) for more information.
 
-## Contact
+## Authors
 
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/your-username/face-based-video-cutter](https://github.com/your-username/face-based-video-cutter)
+- [@MllGll](https://github.com/MllGll) - Creator
