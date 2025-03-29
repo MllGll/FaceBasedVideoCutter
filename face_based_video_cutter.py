@@ -543,6 +543,7 @@ class FaceBasedVideoCutter(QWidget):
         self.cut_button.setEnabled(enabled and len(self.selected_persons) > 0)
         self.cancel_button.setEnabled(False)
         self.tolerance_slider.setEnabled(enabled)
+        self.sample_interval_slider.setEnabled(enabled)
     
     def log_status(self, message):
         self.status_log.append(f"Status: {message}")
